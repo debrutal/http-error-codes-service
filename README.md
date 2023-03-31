@@ -16,5 +16,5 @@ Calling the service responds with a statuscode you provide.
 > returns a response with a status code 400 
 
 ```shell
-curl localhost:8080/200
+curl localhost:8080/400
 ```
